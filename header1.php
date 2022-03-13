@@ -10,7 +10,7 @@
       <img src="img/logo.png" alt="" height="200" width="200"/>
       <!-- Logo Text -->
          
-      <span class=" font-weight-bold">Snajeevni saving lives</span>
+      <span class=" font-weight-bold">SANJEEVNI-saving lives</span>
          </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
